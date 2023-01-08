@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans' ,sans-serif;
+
+}
+
+header{
+    background-image: url('../donate/dnt.jpg');
+    background-repeat: no-repeat;
+    background-size: 1300px 500px;
+
+}
+
+nav{
+    display: flex;
+    margin: 60px 150px;
+    height: 600px;
+    width:100% ;
+     text-align: center;
+     padding: 18px 32px;
+}
+.start{
+    padding:30px 500px;
+    font-size: 25px;
+    font-weight: 700;
+    
+}
+.start-p{
+
+    padding: 20px;
+}
+.btn-primary{
+    background-color:lightpink;
+    padding:10px 25px ;
+    border-radius: 10px;
+    border:0;
+    font-size: 15px;
+    padding: 20px;
+
+}
+.donate-today{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.donate-p{
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    color: lightslategray;
+    padding: 20px;
+}
+.amount{
+    display: flex;
+    list-style: none;
+    justify-content:space-evenly;
+    padding: 20px;
+    width: 1000px;
+    margin: 5px 100px;
+    align-items: center;
+
+}
+.tk-btn{
+    background-color:lightpink;
+    padding:15px 30px ;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.tk-btn1{
+    background-color: grey;
+    padding:15px 30px ;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.hr{
+    margin:0px 500px;
+}
+.other-amount{
+    text-align: center;
+}
+.donate-btn{
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.btn-colour{
+    background-color: hotpink;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 12px 25px;
+}
+.donate-plan{
+    text-align: center;
+    padding: 40px;
+    font-size:30px ;
+}
+.donate-plan-p{
+    text-align: center;
+    color: darkslategrey;
+
+
+}
+
+.skill{
+    background-color:lightblue;
+    box-shadow: 0px 6px 50px rgba( 0 , 0 , 0 , 0.6);
+    border-radius: 5px;
+    padding:30;
+}
+.skill-1{
+   background-color: lightpink;
+   box-shadow: 0px 6px 50px rgba( 0 , 0 , 0 , 0.6);
+   border-radius: 5px;
+   padding:30;
+
+}
+.skill-2{
+    background-color: lightsalmon;
+    box-shadow: 0px 6px 50px rgba( 0 , 0 , 0 , 0.6);
+    border-radius: 5px;
+    padding:30;
+
+}
+.skills-container{
+    display: flex;
+    gap:90px;
+    margin-top: 50px;
+    padding: 40px;
+    text-align: center;
+    border-radius: 5px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.skill-description{
+ color:black;
+}
+.lives{
+    padding: 70px;
+     text-align: end;
+     display: flex;
+     gap: 30px;
+}
+.lives-p{
+    padding: 30px;
+    width: 300px;
+}
+.lives-btn{
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: lightsalmon;
+    width: 200px;
+    margin-right: 100px;
+    color:black;
+}
+.help{
+    text-align:center;
+    margin-left: 5px;
+    display: flex;
+    padding: 30px;
+    gap: 25px;
+
+}
+.help-p{
+    padding: 10px;
+    width: 300px;
+    margin-top: 50px;
+    color:gray;
+    
+}
+.help-1{
+    font-weight: 500;
+    color: black;
+}
+.helps-btn{
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: lightpink;
+    
+    margin-right: 100px;
+    color:black;
+}
+.update{
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+}
+.up-p{
+   padding: 40px;
+   text-align: center;
+}
+
+.last{
+    text-align: center;
+    list-style: none;
+
+}
+.tab{
+    text-align: center;
+    padding: 500;
+    padding: 50px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: lightpink;
+    
+    margin-right: 50px;
+    color:black;
+    margin-bottom: 50px;
+}
+.m1{
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: lightslategrey;
+    
+    //margin-right: 0px;
+    color:black;
+    gap: 0px;
+}
+.m2{
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color:limegreen;
+    
+    margin-right: 100px;
+    color:black;
+}
+.fot{ 
+    text-align: center;
+    padding: 40px;
+    background-color: grey;
+}
